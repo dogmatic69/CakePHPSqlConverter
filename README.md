@@ -1,4 +1,4 @@
 CakePHPSqlConverter
 ===================
 
-Convert sql queries to CakePHP code
+Use this repo for reporting any bugs you may find.
